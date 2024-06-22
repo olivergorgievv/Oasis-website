@@ -29,7 +29,7 @@ export default function Filter() {
         2&mdash;4 guests
       </Button>
       <Button
-        filter="large"
+        filter="medium"
         handleFilter={handleFilter}
         activeFilter={activeFilter}
       >
